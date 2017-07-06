@@ -1,0 +1,72 @@
+body {
+	background-color: #dcb986;
+}
+
+.jumbotron {
+	background-image: url('http://eskipaper.com/images/coffee-6.jpg');
+	padding: 20%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	margin-top: -40px;
+	background-attachment: fixed;
+	background-position: center -238px;
+}
+
+.jumbotron h1 {
+	position: center;
+	top: 18;
+	left: 0;
+	padding-left: 20px;
+	color: #4a2c22;
+}
+
+.mission {
+	background-color: #323232;
+	color: #f7fafe;
+	margin-top: -30px;
+}
+
+.mission h3 {
+	font-family: 'Raleway' 'sans-serif';
+	padding: 5% 10%;
+	text-align: center;
+	position: center;
+}
+
+.features {
+	padding: 5% 0;
+}
+
+.features p {
+	font-family: 'Muli' 'sans-serif';
+	text-align: center;
+	color: #323232;
+	font-size: 1.2em;
+	padding-top: 10px;
+}
+
+footer {
+	background-color: #755234;
+	width: 100%;
+	position: absolute;
+	height: auto;
+}
+
+footer ul li {
+	display: inline-block;
+	list-style: none;
+	padding-left: 2%;
+	float: right;
+}
+
+footer p {
+	float: left;
+	padding-top: 2%;
+}
+
+footer a, 
+footer p {
+	color: #fff;
+	vertical-align: middle;
+}
